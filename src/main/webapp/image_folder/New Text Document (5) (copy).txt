@@ -1,0 +1,20 @@
+001,Ghost_brother,Adler_C.S,Sci-fi,/home/amitsinh/Desktop/LibraryPractise/image_folder/Ghostbrothers.jfif,chanda_pub. 
+002,Speak,Adnerson,Sci-fi,/home/amitsinh/Desktop/LibraryPractise/image_folder/speak.jpg,chanda pub.
+003,Tut,Bernard,young adult,/home/amitsinh/Desktop/LibraryPractise/image_folder/tut.jpg,chanda pub.
+004,Cross bones,Kathy,sci-fi,/home/amitsinh/Desktop/LibraryPractise/image_folder/cross bones.jpg,chanda pub.
+005,The Wizrd of Oz,Baum,fantasy,/home/amitsinh/Desktop/LibraryPractise/image_folder/The Wizrd of Oz.jpg,chanda pub.
+006,colombia,Boraas,Non-fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder/colombia.jpg,chanda pub.
+007,Squashed,Bauer,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder/Squashed.jpg,chanda pub.
+008,Wired,Brouwer,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+009,Ali Baba,Marie,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+010,The Bfg,Dalh,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+011,Jamestown,Doak ,Non-fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+012,The World,Burgan,Non-fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+013,Moving Day,Cabot,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+014,Tangerine,Bloor,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+015,Summer of the swans,Byars,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+016,The Secret Garden,Frances H.B,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+017,The New Girl,Meg Gabot,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+018,A christmas carol,Charles Dickens,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+019,the Problem Child,Michael Buckley,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.
+020,Rules of the road,Blue Balliett ,fiction,/home/amitsinh/Desktop/LibraryPractise/image_folder,chanda pub.               
